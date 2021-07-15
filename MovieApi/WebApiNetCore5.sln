@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiNetCore5", "WebApiNetCore5.csproj", "{2D70B795-1FF0-4C4B-9FAC-AC49C4194CEC}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DbProject", "..\DbProject\DbProject.sqlproj", "{8D2C0E78-8C44-41B5-B5DD-78975415CBFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D70B795-1FF0-4C4B-9FAC-AC49C4194CEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D70B795-1FF0-4C4B-9FAC-AC49C4194CEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D70B795-1FF0-4C4B-9FAC-AC49C4194CEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D70B795-1FF0-4C4B-9FAC-AC49C4194CEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2C0E78-8C44-41B5-B5DD-78975415CBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2C0E78-8C44-41B5-B5DD-78975415CBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2C0E78-8C44-41B5-B5DD-78975415CBFE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8D2C0E78-8C44-41B5-B5DD-78975415CBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2C0E78-8C44-41B5-B5DD-78975415CBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2C0E78-8C44-41B5-B5DD-78975415CBFE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0571AFD3-0AEE-421B-9580-FE6620720386}
+	EndGlobalSection
+EndGlobal
